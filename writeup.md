@@ -357,4 +357,9 @@ keras.utils.plot_model(model, to_file=viz_file, show_shapes=True)
 - [The Effect of Batch Normalization on Deep Convolutional Neural Networks](https://kth.diva-portal.org/smash/get/diva2:955562/FULLTEXT01.pdf)
 - [Andrew Ng Batch Normalization explanation video](https://www.youtube.com/watch?v=nUUqwaxLnWs)
 - [Encoder-Decoder Networks for Semantic Segmentation](https://courses.cs.washington.edu/courses/cse576/17sp/notes/Sachin_Talk.pdf)
--
+- [Depthwise Separable Convolution](https://www.slideshare.net/DongWonShin4/depthwise-separable-convolution)
+- [A Beginner's Guide To Understanding Convolutional Neural Networks Part 2](https://adeshpande3.github.io/A-Beginner%27s-Guide-To-Understanding-Convolutional-Neural-Networks-Part-2/)
+- [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/pdf/1502.03167.pdf)
+- [Semantic Segmentation using Fully Convolutional Networks over the years
+](https://meetshah1995.github.io/semantic-segmentation/deep-learning/pytorch/visdom/2017/06/01/semantic-segmentation-over-the-years.html#sec_fcn)
+- [Understanding Neural Networks Through Deep Visualization](http://yosinski.com/deepvis#toolbox)
